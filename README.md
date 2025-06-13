@@ -19,7 +19,7 @@ This project analyzes sales performance using Excel and pivot tables, and builds
 - East region outperformed West by 15%
 
 ## 📸 Dashboard Screenshots
-> ![Dashboard Image](link-to-your-image.png)
+> ![Dashboard Image]([link-to-your-image.png](https://github.com/vodnalakarthik/Marketing_Dashboard/blob/main/dashboard%20ss.png?raw=true))
 
 ## 📁 Files
 - `Sales_Data.xlsx`
